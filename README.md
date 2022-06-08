@@ -15,3 +15,6 @@ Hosting a website on azure virtual machine installed with Internet information s
 7. Now try to test the failover so that in case of actually failover we can check that no error occurs during that time. Click on test failover and after getting status successfull clean the test failover and now you are ready for the case when you actually needs to failover you can easliy fail the region you had specified. 
 
 # Deployment URL - 40.86.80.251
+
+
+![image](https://user-images.githubusercontent.com/61831401/172694820-dc7e3bba-c3c3-476f-9c42-48069142566c.png)
