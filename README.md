@@ -14,8 +14,7 @@ Hosting a website on azure virtual machine installed with Internet information s
 6. Finally enable site recovery for a specific region so that the VM stays active even at time of a natural calamity or disaster and we can failover to that region so our services are still functional to users and when the disaster i over can again failover to our original. Open virtual machine settings and scroll to disaster recovery and then choose location of region where you want to failover and click on start replication to copy the exact virtual machine to the location you stated and wait till status gets healthy.
 7. Now try to test the failover so that in case of actually failover we can check that no error occurs during that time. Click on test failover and after getting status successfull clean the test failover and now you are ready for the case when you actually needs to failover you can easliy fail the region you had specified. 
 
-# Deployment URL - 40.86.80.251
-
+# Deployment URL - http://40.86.80.251/
 
 ![image](https://user-images.githubusercontent.com/61831401/172694820-dc7e3bba-c3c3-476f-9c42-48069142566c.png)
 
