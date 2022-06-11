@@ -18,3 +18,5 @@ Hosting a website on azure virtual machine installed with Internet information s
 
 
 ![image](https://user-images.githubusercontent.com/61831401/172694820-dc7e3bba-c3c3-476f-9c42-48069142566c.png)
+
+# Github pages URL - https://hackishanhack.github.io/Resilient-and-Reliable-Web-Hosting-over-Azure/
